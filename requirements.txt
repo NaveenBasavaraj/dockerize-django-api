@@ -1,0 +1,8 @@
+Django>=4.2
+djangorestframework
+celery>=5.2
+requests
+beautifulsoup4
+lxml
+psycopg2-binary
+gunicorn
